@@ -1,0 +1,6 @@
+{
+  "name": "Chùa Online - Tu Online Tịnh Tâm",
+  "description": "Ứng dụng đi chùa online, gõ mõ tích đức, xin xăm gieo quẻ, thắp hương lễ Phật và cùng ngồi thiền cùng hàng nghìn đồng tu với pháp danh độc đáo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
